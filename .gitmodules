@@ -1,0 +1,9 @@
+[submodule "Upscale-client"]
+	path = Upscale-client
+	url = https://github.com/thushanda/upscale-client.git
+[submodule "Upscale-backend"]
+	path = Upscale-backend
+	url = https://github.com/thushanda/upscale-backend.git
+[submodule "Upscale-admin"]
+	path = Upscale-admin
+	url = https://github.com/thushanda/upscale-admin.git
